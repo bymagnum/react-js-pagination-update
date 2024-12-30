@@ -1,6 +1,6 @@
 {
   "name": "react-js-pagination",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Simple, easy to use component for pagination. Compatible with bootstrap paginator stylesheets",
   "main": "./dist/Pagination.js",
   "scripts": {
@@ -34,9 +34,9 @@
   "author": "Sergey Vayser <wice24@gmail.com> (http://github.com/vayser)",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/vayser/react-js-pagination/issues"
+    "url": "https://github.com/bymagnum/react-js-pagination-update/issues"
   },
-  "homepage": "https://github.com/vayser/react-js-pagination",
+  "homepage": "https://github.com/bymagnum/react-js-pagination-update",
   "devDependencies": {
     "babel-core": "6.26.3",
     "babel-eslint": "7.1.1",
