@@ -31,8 +31,8 @@
     "react-transform",
     "react-component"
   ],
-  "author": "Sergey Vayser <wice24@gmail.com> (http://github.com/vayser)",
-  "license": "CC0-1.0",
+  "author": "bymagnum",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bymagnum/react-js-pagination-update/issues"
   },
