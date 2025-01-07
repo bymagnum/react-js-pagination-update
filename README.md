@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/vayser/react-js-pagination.svg?branch=master)](https://travis-ci.org/vayser/react-js-pagination)
-
-[![NPM](https://nodei.co/npm/react-js-pagination.png?downloads=true)](https://nodei.co/npm/react-js-pagination/)
+[![NPM](https://nodei.co/npm/react-js-pagination-update.png?downloads=true)](https://nodei.co/npm/react-js-pagination-update/)
 
 # react-js-pagination
 
@@ -10,10 +8,10 @@ The component comes with no built-in styles. HTML layout compatible with [Bootst
 
 ## Installation
 
-Install `react-js-pagination` with [npm](https://www.npmjs.com/):
+Install `react-js-pagination-update` with [npm](https://www.npmjs.com/):
 
 ```
-$ npm install react-js-pagination
+$ npm install react-js-pagination-update
 ```
 
 ## Usage
@@ -23,7 +21,7 @@ Very easy to use. Just provide props with total amount of things that you want t
 ```js
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import Pagination from "react-js-pagination";
+import Pagination from "react-js-pagination-update";
 require("bootstrap/less/bootstrap.less");
 
 class App extends Component {
